@@ -1,0 +1,17 @@
+
+body {
+    text-indent: 10%;
+    
+	background-image: url(../images/background.jpg);
+	background-size: 600pt;
+	background-repeat: no-repeat;
+	background-opacity: .5;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+	background-color: white ;
+	color: rgb(172, 32, 32);
+}
+
+/*#game-container{
+	background-image: url("http://blog.psychics.com/wp-content/uploads/2015/08/Screen-Shot-2013-12-11-at-9.42.55-AM.png");
+	background-size: 200pt;
+}*/
